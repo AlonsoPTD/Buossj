@@ -1,4 +1,4 @@
-# Hola!! mi nombre Es Alonso Tapia Díaz
+# Hola! mi nombre Es Alonso Tapia Díaz
 ### Abogado & Full Stack Python Developer (Trainee) |
 
 Soy un profesional con base en Concepción, Chile, próximo a titularme como abogado, con una sólida formación en desarrollo de software. Mi objetivo es cerrar la brecha entre el marco regulatorio y la ejecución técnica, construyendo herramientas digitales que aporten seguridad jurídica y acerquen el derecho a las personas al reducir costos legales.
